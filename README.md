@@ -5,7 +5,7 @@
 
 > Bu loyihada FETCH Get data ammalini filter orqalik amalga oshiriladi.
 
-### 🏠 [Homepage](https://github.com/Ibrokhim017/ES6-GetData-ArrayMethods/)
+### 🏠 [Homepage](https://ibrokhim017.github.io/ES6-GetData-ArrayMethods/)
 
 ## Author
 
